@@ -1,0 +1,23 @@
+@media screen and (max-width: 768px) {
+  .search {
+    padding: 5px !important;
+    width: 90% !important;
+    padding-left: 25px !important;
+  }
+  .iconSearch{
+    font-size: 14px;
+    left: 20px !important;
+  }
+  .btnOption{
+    padding: 5px !important;
+
+  }
+   .optionText{
+
+    font-size: 12px;
+  }
+  .optionText i{
+    display: none;
+  }
+ 
+}
